@@ -29,8 +29,24 @@
 		</div>
 		<!--test --->
 		<div>
-			<h1>Mes reconpenses</h1>
-			<p>construction</p>
+			<h1>Mes Test</h1>
+			<p>cd /data/odoo12/odoo/./odoo-bin -c ../conf-log/odoo.conf -d HSA-PRODUCTION --db-filter=HSA-PRODUCTIONS
+				Pour le gitgit config --global user.name “nom_utilisateur” : configurer user
+				git config --global user.email <email utilisateur>git config --global --list : voir configuration
+				git add .git commit -m""git status : les modificationsgit diff : la differance entre le workspace par rapport au depot
+				git diff <fichier> : git log: affiche liste des commit mais pas en detail les modifications apporté
+				git log -n <nombre> : affiche nombre de commit demande git log master : affiche le commit sur laquel le master pointe (le dernier commit)
+				git show SH2 de la commit exemplegit show master/t les tag git pull : recuperer
+			</p>
+		</div>
+		
+		<!--Image --->
+		<div>
+			<h1>Mon image</h1>
+			<p>
+				<img src="Images/img.png" width="60" />
+
+			</p>
 		</div>
 		
 		<!--Gist --->
