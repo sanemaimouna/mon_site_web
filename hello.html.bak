@@ -65,14 +65,13 @@
 			</h1>
 			<p>
 				Git pull<br/>
-<<<<<<< HEAD
 
 				git push<br/>
 				git log<br/>
-=======
+
 				Git init<br/>
 				
->>>>>>> 2fe1600 (ajout git init)
+
 
 			</p>
 		</div>
