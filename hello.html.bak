@@ -66,12 +66,13 @@
 			<p>
 				Git pull<br/>
 <<<<<<< HEAD
-				<br/>
-				
-=======
+
 				git push<br/>
 				git log<br/>
->>>>>>> BRANCH_A_MERGE
+=======
+				Git init<br/>
+				
+>>>>>>> 2fe1600 (ajout git init)
 
 			</p>
 		</div>
