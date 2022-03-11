@@ -58,4 +58,21 @@
 				<script src="https://gist.github.com/sanemaimouna/239ba3fea4019d37e5f3fbbc9b6f2dbf.js"></script>
 			</p>
 		</div>
+		
+		<!--Commandes git --->
+		<div>
+			<h1>Mes Commandes git
+			</h1>
+			<p>
+				Git pull<br/>
+<<<<<<< HEAD
+				<br/>
+				
+=======
+				git push<br/>
+				git log<br/>
+>>>>>>> BRANCH_A_MERGE
+
+			</p>
+		</div>
 </body></html>
