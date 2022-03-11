@@ -44,7 +44,9 @@
 		<div>
 			<h1>Mon image</h1>
 			<p>
-				<img src="Images/img.png" width="60" />
+				<img src="Images/bronze.jpg"  />
+				<img src="Images/img.png"  />
+				
 
 			</p>
 		</div>
